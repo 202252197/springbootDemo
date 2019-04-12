@@ -188,13 +188,15 @@ spring.view.suffix=.jsp
 
 启动Spring Boot项目后会看到这样的图案： 
 
-![1536667065619](图片储蓄\1536667065619.png)
+![](https://github.com/202252197/springbootDemo/blob/master/图片储蓄/1536667065619.png)
 
 这个图片其实是可以自定义的：
 
 1.打开网站：<http://patorjk.com/software/taag/#p=display&h=3&v=3&f=4Max&t=itcast%20Spring%20Boot>
 
-![1536667120637](图片储蓄\1536667120637.png)2.拷贝生成的字符到一个文本文件中，并且将该文件命名为banner.txt,
+![](https://github.com/202252197/springbootDemo/blob/master/图片储蓄/1536667120637.png)
+
+2.拷贝生成的字符到一个文本文件中，并且将该文件命名为banner.txt,
 
 3.将banner.txt拷贝到项目的resources目录中：
 
