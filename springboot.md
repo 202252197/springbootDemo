@@ -200,11 +200,11 @@ spring.view.suffix=.jsp
 
 3.将banner.txt拷贝到项目的resources目录中：
 
-![1536667183750](图片储蓄\1536667183750.png)
+![](https://github.com/202252197/springbootDemo/blob/master/图片储蓄/1536667183750.png)
 
 4.重新启动程序，查看效果：   
 
-![1536667201758](图片储蓄\1536667201758.png)
+![](https://github.com/202252197/springbootDemo/blob/master/图片储蓄/1536667201758.png)
 
 5.**全局配置详情**
 
@@ -1343,7 +1343,7 @@ Mapped "{[/actuator],methods=[GET],produces=[application/vnd.spring-boot.actuato
 
 **3.Actuator访问路径解释**
 
-![](图片储蓄\sss.png)
+![](https://github.com/202252197/springbootDemo/blob/master/图片储蓄/sss.png)
 
 http://localhost:8080/actuator/health代表帮你查看配置文件是否正确
 
